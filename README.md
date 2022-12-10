@@ -1,4 +1,4 @@
-# Tshooter
+# DevOps swiss army knife
 
 This is a docker image that has a bunch of tools to help you troubleshoot your Applications, Services and Network in a containerized environment.
 
